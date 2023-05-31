@@ -1,0 +1,14 @@
+{
+  "name": "webdevecom",
+  "version": "1.0.0",
+  "description": "A Project By Omer Nir and Aviv",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "ECommerce"
+  ],
+  "author": "WebDev-A-O-N",
+  "license": "ISC"
+}
